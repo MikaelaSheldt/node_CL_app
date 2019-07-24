@@ -1,0 +1,23 @@
+{
+  "name": "node_cl_app",
+  "version": "1.0.0",
+  "description": "practice accessing 3rd party API, and node HTTP requests without express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaelaSheldt/node_CL_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikaelaSheldt/node_CL_app/issues"
+  },
+  "homepage": "https://github.com/MikaelaSheldt/node_CL_app#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "https": "^1.0.0"
+  }
+}
